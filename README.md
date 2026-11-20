@@ -1,4 +1,3 @@
-<img width="1920" height="920" alt="image" src="https://github.com/user-attachments/assets/89606f21-92e6-4bdc-a712-513828c5bf9f" /><div align="center">
 
 # 🔐 Password Cracking Lab — JTR & NetworkWalks Tools
 
