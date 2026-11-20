@@ -143,13 +143,6 @@ The tool found a match at 35% progress through the wordlist.
 | PM2 — Run 2 | NetworkWalks Hash Calculator + Password Cracker | My Locked PDF2.pdf | ✅ Password cracked successfully |
 | PM2 — Run 2 | NetworkWalks Hash Calculator + Password Cracker | My Locked PDF3.pdf | ✅ Password cracked successfully |
 
----
-## 🚩 Flags Captured
-
-- **PM1 Flag (JTR):** [PM1_Flag.pdf](./PM1_Flag.pdf)
-- **PM2 Flag 1:** [PM2_Flag_1.pdf](./PM2_Flag_1.pdf)
-- **PM2 Flag 2:** [PM2_Flag_2.pdf](./PM2_Flag_2.pdf)
-- **PM2 Flag 3 (Persistence):** [PM2_Flag_Persistence.pdf](./PM2_Flag_Persistence.pdf)
 
 ---
 ## 💡 What I Learned
